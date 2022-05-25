@@ -11,11 +11,11 @@ public class GitProgramChanges
 	 
 	 if(number%2==0)
 	 {
-	   System.out.println("even number");
+	   System.out.println("it is an even number");
 	 }
 	 else
 	 {
-		System.out.println("odd number");
+		System.out.println("it is an odd number");
 	 }
 		
 	}
